@@ -1,7 +1,5 @@
 # Sample REST Server with CRUD 
-
-## Description
-This is a sample node.js REST server built using TDD on Jest. 
+Sample node.js REST server built using TDD on Jest. 
 Using this you can very simply connect to a database and perform basic CRUD operations.
 
 ## Instructions
